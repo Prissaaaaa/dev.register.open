@@ -6,13 +6,13 @@
   "subdomain": "itsmeprissa",
 
   "owner": {
-    "repo": "https://github.com/prissaaaaa/itsmeprissa.is-not-a.dev",
+    "repo": "https://github.com/prissaaaaa/repo",
     "email": "itsmeprissa@gmail.com"
   },
 
   "record": {
-    "CNAME": "prissaaaaa.github.io"
+    "CNAME": "itsmeprissa.ispost.ing"
   },
 
-  "proxy": false
+  "proxied": false
 }
